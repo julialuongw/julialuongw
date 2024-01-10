@@ -1,4 +1,28 @@
-### Hi there 👋
+### 📊 Data Analyst | 👩‍🏫 Mathematics Educator | University of California San Diego, 2021
+
+Hello, I'm Julia. Data analyst with a blend of technical and communication skills developed over 6 years as a mathematics instructor and programmer.
+- Querying and Analyzing data in SQL
+- Cleaning & Exploring data in Excel and Python
+- Developing visualizations in Tableau 
+
+**📚 Projects**
+
+| Project | Areas | Description |
+| - | - | - |
+| [🏫 K-12 Student Achievement](https://github.com/julialuongw/Student-AP-Data-Analysis) | Data cleaning, EDA, Data transformation, Database design | I answer business questions about AP Exam scores in K-12 schools, such as pass rates for each school, factors influencing achievement, and recommendations for action.|
+| [🚲 Bike-Sharing](https://github.com/julialuongw/Descriptive-Analysis-on-Bike-Share-Data) | Business strategy, Reporting, Descriptive statistics, Visualization | I devise recommendations for a Bikeshare advertising campaign by discovering an untapped customer demographic. |
+| [🚢 South China Sea Conflicts](https://github.com/julialuongw/South-China-Sea-Vessels-Data-Wrangling) | Data wrangling, Web scraping | I webscrape metadata of 7500 Chinese ships and label aggressor ships based on news articles. |
+| [👩‍💻 Leetcode Solutions](https://github.com/julialuongw/Leetcode-SQL-Pandas-Problem-Sets) | Query development, Programming | This repo contains my 80 solutions to Leetcode's "SQL 50" and "30 days of Pandas" problem sets. |
+
+
+**🛠️ Tools**
+- Languages: SQL, Python
+- Databases: Excel, MySQL Workbench, Google Bigquery
+- Visualization: Tableau
+
+**👋🏻 Reach out to me**
+
+Feel free to contact me at julialuongw[at]gmail.com. I welcome questions, collaboration, and connections! 
 
 <!--
 **julialuongw/julialuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
