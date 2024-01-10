@@ -1,4 +1,4 @@
-### 📊 Data Analyst | 👩‍🏫 Mathematics Educator | University of California San Diego, 2021
+#### 📊 Data Analyst | 👩‍🏫 Mathematics Educator | University of California San Diego -- Mathematics & Computer Science 
 
 Hello, I'm Julia. Data analyst with a blend of technical and communication skills developed over 6 years as a mathematics instructor and programmer.
 - Querying and Analyzing data in SQL
@@ -17,7 +17,7 @@ Hello, I'm Julia. Data analyst with a blend of technical and communication skill
 
 **🛠️ Tools**
 - Languages: SQL, Python
-- Databases: Excel, MySQL Workbench, Google Bigquery
+- Databases: Excel, MySQL Workbench, Google BigQuery
 - Visualization: Tableau
 
 **👋🏻 Reach out to me**
