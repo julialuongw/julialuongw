@@ -8,7 +8,7 @@ Hello, I'm Julia. Data analyst with a blend of technical and communication skill
 **📚 Projects**
 
 | Project | Areas | Description |
-| - | - | - |
+| :--- | :--- | :--- |
 | [🏫 K-12 Student Achievement](https://github.com/julialuongw/Student-AP-Data-Analysis) | Data cleaning, EDA, Data transformation, Database design | I answer business questions about AP Exam scores in K-12 schools, such as pass rates for each school, factors influencing achievement, and recommendations for action.|
 | [🚲 Bike-Sharing](https://github.com/julialuongw/Descriptive-Analysis-on-Bike-Share-Data) | Business strategy, Reporting, Descriptive statistics, Visualization | I devise recommendations for a Bikeshare advertising campaign by discovering an untapped customer demographic. |
 | [🚢 South China Sea Conflicts](https://github.com/julialuongw/South-China-Sea-Vessels-Data-Wrangling) | Data wrangling, Web scraping | I webscrape metadata of 7500 Chinese ships and label aggressor ships based on news articles. |
