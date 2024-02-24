@@ -16,8 +16,8 @@ Hello, I'm Julia. Data professional with a blend of technical and presentation s
 
 
 ### 🛠️ Tools
-- Languages: SQL, Python, Excel
-- Databases: MySQL Workbench, Google BigQuery
+- Languages: SQL, Python
+- Databases: Excel, MySQL Workbench, Google BigQuery
 - Visualization: Tableau
 
 ### 👋🏻 Reach out to me
