@@ -1,6 +1,6 @@
 ### Data Analyst | Mathematics Educator | University of California San Diego, Mathematics & Computer Science 
 
-Hello, I'm Julia. Data professional with a blend of technical and presentation skills developed over 4 years as a mathematics educator and solo programmer.
+Data professional with a blend of technical and communication skills developed over 4 years as a mathematics instructor. Pivoting away from teaching, I am learning more about data engineering and analytics in pursuit of optimizing processes and informing business choices. 
 - Querying and Analyzing data in SQL
 - Cleaning & Exploring data in Excel and Python
 - Developing visualizations in Tableau 
