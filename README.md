@@ -1,10 +1,5 @@
-### Data Analyst | Mathematics Educator | University of California San Diego, Mathematics & Computer Science 
-
-Data professional with a blend of technical and communication skills developed over 4 years as a mathematics instructor. Pivoting away from teaching, I am learning more about data engineering and analytics in pursuit of optimizing processes and informing business choices. 
-- Querying and Analyzing data in SQL
-- Cleaning & Exploring data in Excel and Python
-- Developing visualizations in Tableau 
-
+### Developer & Mathematics Educator | University of California San Diego, Mathematics & Computer Science 
+ <!--
 ### 📚 Projects
 
 | Project | Areas | Description |
@@ -16,14 +11,14 @@ Data professional with a blend of technical and communication skills developed o
 
 
 ### 🛠️ Tools
-- Languages: SQL, Python
-- Databases: Excel, MySQL Workbench, Google BigQuery
-- Visualization: Tableau
+Languages:	Python, SQL, Javascript, C/C++, Git, Bash
+Software:	MySQL, Github, Linux, Excel
+Concepts: 	Data Structures, Algorithms, Test-Driven Development
 
 ### 👋🏻 Reach out to me
 
-Feel free to contact me at julialuongw[at]gmail.com. I welcome questions, collaboration, and connections! 
-
+Feel free to contact me at julialuongw[at]gmail.com! 
+-->
 <!--
 **julialuongw/julialuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
