@@ -1,4 +1,6 @@
-### Developer & Mathematics Educator | University of California San Diego, Mathematics & Computer Science 
+<!--### Developer | Mathematics Educator | University of California San Diego, Mathematics & Computer Science 
+-->
+
  <!--
 ### 📚 Projects
 
@@ -12,7 +14,7 @@
 
 ### 🛠️ Tools
 Languages:	Python, SQL, Javascript, C/C++, Git, Bash
-Software:	MySQL, Github, Linux, Excel
+Software:	MySQL, Github, Linux
 Concepts: 	Data Structures, Algorithms, Test-Driven Development
 
 ### 👋🏻 Reach out to me
